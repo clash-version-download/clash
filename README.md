@@ -15,10 +15,10 @@
 | [V2rayN](#-v2rayN) | 🟢 |  ✅ | ❌ | ❌ | ❌ | [官方](https://github.com/2dust/v2rayN/releases) | - |
 | [ClashMi](#-clashmi) | 🟢 |  ✅ | ❌ | ❌ | ✅ | [官方](https://github.com/KaringX/clashmi/releases) | - |
 | [Clash Meta for Android](#-clash-meta-for-android) | 🟢 | ❌ | ❌ | ✅ | ❌ | [官方](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) | [前往](https://clash.guide/clash-meta-for-adnroid) |
-| [Clash Verge](#-clash-verge-停更) | 🔴 |  ✅ | ✅ | ❌ | ❌ | [备份](https://github.com/clash-versio-download/clash-verge) | [前往](https://clash.guide/clash-verge) |
-| [Clash for Windows](#-clash-for-windows) | 🔴 |✅ | ✅ | ❌ | ❌ | [备份](https://github.com/clash-versio-download/clash-for-windows) | [前往](https://clash.guide/clash-for-windows) |
-| [ClashX](#-clashx-停更) | 🔴 |  ❌ | ✅ | ❌ | ❌ | [备份](https://github.com/clash-versio-download/clashx) | [前往](https://clash.guide/clashx) |
-| [Clash for Android](#-clash-for-android-停更) | 🔴 | ❌ | ❌ | ✅ | ❌ | [备份](https://github.com/clash-versio-download/clash-for-android) | [前往](https://clash.guide/clash-for-android) |
+| [Clash Verge](#-clash-verge-停更) | 🔴 |  ✅ | ✅ | ❌ | ❌ | [备份](https://github.com/clash-version-download/clash-verge) | [前往](https://clash.guide/clash-verge) |
+| [Clash for Windows](#-clash-for-windows) | 🔴 |✅ | ✅ | ❌ | ❌ | [备份](https://github.com/clash-version-download/clash-for-windows) | [前往](https://clash.guide/clash-for-windows) |
+| [ClashX](#-clashx-停更) | 🔴 |  ❌ | ✅ | ❌ | ❌ | [备份](https://github.com/clash-version-download/clashx) | [前往](https://clash.guide/clashx) |
+| [Clash for Android](#-clash-for-android-停更) | 🔴 | ❌ | ❌ | ✅ | ❌ | [备份](https://github.com/clash-version-download/clash-for-android) | [前往](https://clash.guide/clash-for-android) |
 ---
 
 ## 🎯 推荐客户端（活跃维护）
