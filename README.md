@@ -8,12 +8,12 @@
 
 | 客户端 | 维护状态 |  Windows | macOS | Android | iOS | 仓库 | 教程 |
 |--------|----------|----------|----------|----------|----------|------|------|
-| [Hiddify Next](#-hiddify-next) | 🟢 | ✅ | ✅ | ✅ | ✅ | [官方](https://github.com/hiddify/hiddify-app/releases) | - |
 | [FlClash](#-flclash) | 🟢 | ✅ | ✅ | ✅ | ❌ | [官方](https://github.com/chen08209/FlClash/releases) | [前往](https://clash.guide/flclash) |
 | [Clash Verge Rev](#-clash-verge-rev) | 🟢 | ✅ | ✅ | ❌ | ❌ | [官方](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [前往](https://clash.guide/clash-verge) |
+| [ClashMi](#-clashmi) | 🟢 |  ✅ | ✅ | ✅ | ✅ | [官方](https://github.com/KaringX/clashmi/releases) | - |
 | [GUI for Clash](#-gui-for-clash) | 🟢 |  ✅ | ✅ | ❌ | ❌ | [官方](https://github.com/GUI-for-Cores/GUI.for.Clash/releases) | - |
 | [V2rayN](#-v2rayN) | 🟢 |  ✅ | ❌ | ❌ | ❌ | [官方](https://github.com/2dust/v2rayN/releases) | - |
-| [ClashMi](#-clashmi) | 🟢 |  ✅ | ❌ | ❌ | ✅ | [官方](https://github.com/KaringX/clashmi/releases) | - |
+| [Hiddify Next](#-hiddify-next) | 🟢 | ✅ | ✅ | ✅ | ❌ | [官方](https://github.com/hiddify/hiddify-app/releases) | - |
 | [Clash Meta for Android](#-clash-meta-for-android) | 🟢 | ❌ | ❌ | ✅ | ❌ | [官方](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) | [前往](https://clash.guide/clash-meta-for-adnroid) |
 | [Clash Verge](#-clash-verge-停更) | 🔴 |  ✅ | ✅ | ❌ | ❌ | [备份](https://github.com/clash-version-download/clash-verge) | [前往](https://clash.guide/clash-verge) |
 | [Clash for Windows](#-clash-for-windows) | 🔴 |✅ | ✅ | ❌ | ❌ | [备份](https://github.com/clash-version-download/clash-for-windows) | [前往](https://clash.guide/clash-for-windows) |
