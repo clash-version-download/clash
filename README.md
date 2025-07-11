@@ -4,7 +4,7 @@
 
 ## 📊 版本状态总览(停更版本仅备份仓库下载)
 
-| 客户端 | 维护状态 |  Windows | macOS | Android | iOS | 仓库 | 教程 |免费节点试用|
+| 客户端 | 维护状态 |  Windows | macOS | Android | iOS | 仓库 | 教程 |免费节点|
 |--------|----------|----------|----------|----------|----------|------|------|------|
 | [FlClash](#-flclash) | 🟢 | ✅ | ✅ | ✅ | ❌ | [官方](https://github.com/chen08209/FlClash/releases) | [前往](https://clash.guide/flclash) | [前往](https://qiaomimi.de/#/register?code=rwbjnDv3) |
 | [Clash Verge Rev](#-clash-verge-rev) | 🟢 | ✅ | ✅ | ❌ | ❌ | [官方](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [前往](https://clash.guide/clash-verge) |[前往](https://qiaomimi.de/#/register?code=rwbjnDv3) |
