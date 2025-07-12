@@ -123,27 +123,27 @@
 
 ### ⚠️ Clash Verge （停更）
 - **下载地址**：[GitHub 备份](https://github.com/clash-version-download/Clash_Verge)
-- **使用教程**：[clash.guide](https://clashapp.download/clash-verge)
+- **使用教程**：[clashapp.download](https://clashapp.download/clash-verge)
 - **停更说明**：原开发者已停止维护，建议迁移到 Clash Verge Rev
 
 ### ⚠️ Clash for Windows （停更）
 - **下载地址**：[GitHub 备份](https://github.com/clash-version-download/Clash_for_Windows)
-- **使用教程**：[clash.guide](https://clashapp.download/clash-for-windows)
+- **使用教程**：[clashapp.download](https://clashapp.download/clash-for-windows)
 - **停更说明**：曾经最受欢迎的Windows客户端，现已停更
 
 ### ⚠️ ClashX （停更）
 - **下载地址**：[GitHub 备份](https://github.com/clash-version-download/ClashX)
-- **使用教程**：[clash.guide](https://clashapp.download/clashx)
+- **使用教程**：[clashapp.download](https://clashapp.download/clashx)
 - **适用平台**：macOS
 
 ### ⚠️ ClashX Pro （停更）
 - **下载地址**：[GitHub 备份](https://github.com/clash-version-download/ClashX_Pro)
-- **使用教程**：[clash.guide](https://clashapp.download/clashx)
+- **使用教程**：[clashapp.download](https://clashapp.download/clashx)
 - **适用平台**：macOS
 
 ### ⚠️ Clash for Android （停更）
 - **下载地址**：[GitHub 备份](https://github.com/clash-version-download/Clash_for_Android)
-- **使用教程**：[clash.guide](https://clashapp.download/clash-for-android)
+- **使用教程**：[clashapp.download](https://clashapp.download/clash-for-android)
 - **适用平台**：Android
 
 ---
@@ -165,6 +165,6 @@
 
 ---
 
-![clash](https://clash.guide/clash-images/clash.webp)
+![clash](https://clashapp.download/clash-images/clash.webp)
 
 *最后更新时间：2025年6月3日*
