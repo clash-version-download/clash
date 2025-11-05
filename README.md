@@ -4,7 +4,7 @@
 
 ## ✈ 机场推荐
 
->>PolarisNet,提供免费试用,79元200G流量不过期，好用再买更划算。
+[PolarisNet](https://t.polarisnet.cloud/#/register?code=G53csTkQ),提供免费试用,79元200G流量不过期，好用再买更划算。
 
 ## 📊 版本状态总览(停更版本仅备份仓库下载)
 
