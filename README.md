@@ -1,22 +1,26 @@
 # 🚀 Clash 客户端版本全览 & 持续更新
 
-> 最后更新：2025年8月 | 涵盖主流平台的全部 Clash 客户端
+> 最后更新：2025年11月 | 涵盖主流平台的 Clash 客户端
+
+## ✈ 机场推荐
+
+>>PolarisNet,提供免费试用,79元200G流量不过期，好用再买更划算。
 
 ## 📊 版本状态总览(停更版本仅备份仓库下载)
 
-| 客户端 | 维护状态 |  Windows | macOS | Android | iOS | 仓库 | 教程 |免费节点|
-|--------|----------|----------|----------|----------|----------|------|------|------|
-| [FlClash](#-flclash) | 🟢 | ✅ | ✅ | ✅ | ❌ | [官方](https://github.com/chen08209/FlClash/releases) | [前往](https://clash-windows.org/flclash) | [前往](https://qiaomimi.de/#/register?code=rwbjnDv3) |
-| [Clash Verge Rev](#-clash-verge-rev) | 🟢 | ✅ | ✅ | ❌ | ❌ | [官方](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [前往](https://clash-windows.org/clash-verge) |[前往](https://qiaomimi.de/#/register?code=rwbjnDv3) |
-| [ClashMi](#-clashmi) | 🟢 |  ✅ | ✅ | ✅ | ✅ | [官方](https://github.com/KaringX/clashmi/releases) | - |[前往](https://qiaomimi.de/#/register?code=rwbjnDv3) |
-| [GUI for Clash](#-gui-for-clash) | 🟢 |  ✅ | ✅ | ❌ | ❌ | [官方](https://github.com/GUI-for-Cores/GUI.for.Clash/releases) | - |[前往](https://qiaomimi.de/#/register?code=rwbjnDv3) |
-| [V2rayN](#-v2rayN) | 🟢 |  ✅ | ❌ | ❌ | ❌ | [官方](https://github.com/2dust/v2rayN/releases) | - |[前往](https://qiaomimi.de/#/register?code=rwbjnDv3) |
-| [Hiddify Next](#-hiddify-next) | 🟢 | ✅ | ✅ | ✅ | ❌ | [官方](https://github.com/hiddify/hiddify-app/releases) | - |[前往](https://qiaomimi.de/#/register?code=rwbjnDv3) |
-| [Clash Meta for Android](#-clash-meta-for-android) | 🟢 | ❌ | ❌ | ✅ | ❌ | [官方](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) | [前往](https://clash-windows.org/clash-meta) |[前往](https://qiaomimi.de/#/register?code=rwbjnDv3) |
-| [Clash Verge](#-clash-verge-停更) | 🔴 |  ✅ | ✅ | ❌ | ❌ | [备份](https://github.com/clash-version-download/clash-verge) | [前往](https://clash-windows.org/clash-verge) |[前往](https://qiaomimi.de/#/register?code=rwbjnDv3) |
-| [Clash for Windows](#-clash-for-windows) | 🔴 |✅ | ✅ | ❌ | ❌ | [备份](https://github.com/clash-version-download/clash-for-windows) | [前往](https://clash-windows.org/clash-for-windows) |[前往](https://qiaomimi.de/#/register?code=rwbjnDv3) |
-| [ClashX](#-clashx-停更) | 🔴 |  ❌ | ✅ | ❌ | ❌ | [备份](https://github.com/clash-version-download/clashx) | [前往](https://clash-windows.org/clashx) |[前往](https://qiaomimi.de/#/register?code=rwbjnDv3) |
-| [Clash for Android](#-clash-for-android-停更) | 🔴 | ❌ | ❌ | ✅ | ❌ | [备份](https://github.com/clash-version-download/clash-for-android) | [前往](https://clash-windows.org/clash-for-android) |[前往](https://qiaomimi.de/#/register?code=rwbjnDv3) |
+| 客户端 | 维护状态 |  Windows | macOS | Android | iOS | 仓库 | 教程 |
+|--------|----------|----------|----------|----------|----------|------|------|
+| [FlClash](https://clashproxy.net/flclash.html) | 🟢 | ✅ | ✅ | ✅ | ❌ | [官方](https://github.com/chen08209/FlClash/releases) | [前往](https://clashproxy.net/flclash.html) | 
+| [Clash Verge Rev](https://clashproxy.net/clash-verge.html) | 🟢 | ✅ | ✅ | ❌ | ❌ | [官方](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [前往](https://clashproxy.net/clash-verge.html) |
+| [ClashMi]() | 🟢 |  ✅ | ✅ | ✅ | ✅ | [官方](https://github.com/KaringX/clashmi/releases) | - |
+| [GUI for Clash]() | 🟢 |  ✅ | ✅ | ❌ | ❌ | [官方](https://github.com/GUI-for-Cores/GUI.for.Clash/releases) | - |
+| [V2rayN]() | 🟢 |  ✅ | ❌ | ❌ | ❌ | [官方](https://github.com/2dust/v2rayN/releases) | - |
+| [Hiddify Next]() | 🟢 | ✅ | ✅ | ✅ | ❌ | [官方](https://github.com/hiddify/hiddify-app/releases) | - |
+| [Clash Meta for Android](https://clashproxy.net/clash-meta-for-android.html) | 🟢 | ❌ | ❌ | ✅ | ❌ | [官方](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) | [前往](https://clashproxy.net/clash-meta-for-android.html) |
+| [Clash Verge](https://clashproxy.net/clash-verge.html) | 🔴 |  ✅ | ✅ | ❌ | ❌ | [备份](https://github.com/clash-version-download/clash-verge) | [前往](https://clashproxy.net/clash-verge.html) |
+| [Clash for Windows](https://clashproxy.net/clash-for-windows.html) | 🔴 |✅ | ✅ | ❌ | ❌ | [备份](https://github.com/clash-version-download/clash-for-windows) | [前往](https://clashproxy.net/clash-for-windows.html) |
+| [ClashX](https://clashproxy.net/clashx.html) | 🔴 |  ❌ | ✅ | ❌ | ❌ | [备份](https://github.com/clash-version-download/clashx) | [前往](https://clashproxy.net/clashx) |
+| [Clash for Android](https://clashproxy.net/clash-for-android.html) | 🔴 | ❌ | ❌ | ✅ | ❌ | [备份](https://github.com/clash-version-download/clash-for-android) | [前往](https://clashproxy.net/clash-for-android.html) |
 ---
 
 ## 🎯 推荐客户端（活跃维护）
@@ -122,28 +126,19 @@
 ## 📚 经典版本（已停更但仍可用）
 
 ### ⚠️ Clash Verge （停更）
-- **下载地址**：[GitHub 备份](https://github.com/clash-version-download/Clash_Verge)
-- **使用教程**：[clashapp.download](https://clash-windows.org/clash-verge)
+- **下载地址**：[GitHub 备份](https://clashproxy.net/clash-verge)
 - **停更说明**：原开发者已停止维护，建议迁移到 Clash Verge Rev
 
 ### ⚠️ Clash for Windows （停更）
-- **下载地址**：[GitHub 备份](https://github.com/clash-version-download/Clash_for_Windows)
-- **使用教程**：[clashapp.download](https://clash-windows.org/clash-for-windows)
+- **下载地址**：[GitHub 备份](https://clashproxy.net/clash-for-windows)
 - **停更说明**：曾经最受欢迎的Windows客户端，现已停更
 
 ### ⚠️ ClashX （停更）
-- **下载地址**：[GitHub 备份](https://github.com/clash-version-download/ClashX)
-- **使用教程**：[clashapp.download](https://clash-windows.org/clashx)
-- **适用平台**：macOS
-
-### ⚠️ ClashX Pro （停更）
-- **下载地址**：[GitHub 备份](https://github.com/clash-version-download/ClashX_Pro)
-- **使用教程**：[clashapp.download](https://clash-windows.org/clashx)
+- **下载地址**：[GitHub 备份](https://clashproxy.net/clashx)
 - **适用平台**：macOS
 
 ### ⚠️ Clash for Android （停更）
-- **下载地址**：[GitHub 备份](https://github.com/clash-version-download/Clash_for_Android)
-- **使用教程**：[clashapp.download](https://clash-windows.org/clash-for-android)
+- **下载地址**：[GitHub 备份](https://clashproxy.net/clash-for-android)
 - **适用平台**：Android
 
 ---
@@ -153,18 +148,18 @@
 - 🚨 **安全提醒**：仅从官方渠道下载，避免恶意软件
 - 🔄 **版本更新**：建议使用活跃维护的版本，及时更新
 - 📖 **使用合规**：请遵守当地法律法规，仅用于学习和合法用途
-- 🛠️ **技术支持**：各客户端在社区都有详细的使用教程👉[前往](https://clash-windows.org/)
+- 🛠️ **技术支持**：各客户端在社区都有详细的使用教程👉[前往](https://clashproxy.net/download.html)
 
 ---
 
 ## 📞 社区与支持
 
 - 💬 **问题反馈**：各项目的 GitHub Issues
-- 📘 **使用教程**：[查看各客户端教程文档](https://clashapp.download/)
+- 📘 **使用教程**：[查看各客户端教程文档](https://clashproxy.net/)
 - 🌐 **社区讨论**：Reddit、Telegram 等平台的相关群组
 
 ---
 
-![clash](https://clash-windows.org/clash-images/clash.webp)
+![clash](https://download.clash.guide/clash-images/clash.webp)
 
-*最后更新时间：2025年6月3日*
+*最后更新时间：2025年11月5日*
