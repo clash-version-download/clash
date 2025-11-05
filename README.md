@@ -126,19 +126,19 @@
 ## 📚 经典版本（已停更但仍可用）
 
 ### ⚠️ Clash Verge （停更）
-- **下载地址**：[GitHub 备份](https://clashproxy.net/clash-verge)
+- **下载地址**：[GitHub 备份](https://clashproxy.net/clash-verge.html)
 - **停更说明**：原开发者已停止维护，建议迁移到 Clash Verge Rev
 
 ### ⚠️ Clash for Windows （停更）
-- **下载地址**：[GitHub 备份](https://clashproxy.net/clash-for-windows)
+- **下载地址**：[GitHub 备份](https://clashproxy.net/clash-for-windows.html)
 - **停更说明**：曾经最受欢迎的Windows客户端，现已停更
 
 ### ⚠️ ClashX （停更）
-- **下载地址**：[GitHub 备份](https://clashproxy.net/clashx)
+- **下载地址**：[GitHub 备份](https://clashproxy.net/clashx.html)
 - **适用平台**：macOS
 
 ### ⚠️ Clash for Android （停更）
-- **下载地址**：[GitHub 备份](https://clashproxy.net/clash-for-android)
+- **下载地址**：[GitHub 备份](https://clashproxy.net/clash-for-android.html)
 - **适用平台**：Android
 
 ---
